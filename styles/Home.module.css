@@ -79,16 +79,16 @@
   background-size: cover;
 }
 .black {
-  background-image: url('../public/images/black.jpg');
+  background-image: url('/images/black.jpg');
 }
 .brown {
-  background-image: url('../public/images/brown.jpg');
+  background-image: url('/images/brown.jpg');
 }
 .white {
-  background-image: url('../public/images/white.jpg');
+  background-image: url('/images/white.jpg');
 }
 .green {
-  background-image: url('../public/images/green.jpg');
+  background-image: url('/images/green.jpg');
 }
 
 .footer {
